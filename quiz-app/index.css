@@ -6,3 +6,7 @@ body {
   color: white;
   background: url('./lakers-logo.png') fixed;
 }
+
+#submitAnswer{
+  display: none;
+}

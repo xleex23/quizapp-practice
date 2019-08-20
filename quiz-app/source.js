@@ -7,7 +7,7 @@ const store = [
       'Denver',
       'Boston'
     ],
-    correctAnswer: 'Minneaplis'
+    correctAnswer: 'Minneapolis'
   },
   {
     question: 'Who is the leading all-time scorer in Lakers history?',
